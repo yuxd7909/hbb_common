@@ -114,7 +114,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["rustdesk.tccu.edu.cn"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["10.20.108.110"];
 pub const RS_PUB_KEY: &str = "8bD6QZzUrkJsauBi23UsG0GmH2l7RP4xWswmJwW8D7o=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
